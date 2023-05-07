@@ -2191,6 +2191,7 @@ add list=CN address=119.108.0.0/15 comment=china-all
 add list=CN address=119.112.0.0/12 comment=china-all
 add list=CN address=119.128.0.0/12 comment=china-all
 add list=CN address=119.144.0.0/14 comment=china-all
+add list=CN address=119.148.160.0/20 comment=china-all
 add list=CN address=119.161.12.0/24 comment=china-all
 add list=CN address=119.161.14.0/23 comment=china-all
 add list=CN address=119.161.120.0/22 comment=china-all
