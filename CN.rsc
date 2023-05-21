@@ -2814,7 +2814,7 @@ add list=CN address=163.181.44.0/24 comment=china-all
 add list=CN address=163.181.49.0/24 comment=china-all
 add list=CN address=163.181.50.0/24 comment=china-all
 add list=CN address=163.181.52.0/24 comment=china-all
-add list=CN address=163.181.56.0/23 comment=china-all
+add list=CN address=163.181.56.0/24 comment=china-all
 add list=CN address=163.181.61.0/24 comment=china-all
 add list=CN address=163.181.66.0/23 comment=china-all
 add list=CN address=163.181.70.0/23 comment=china-all
