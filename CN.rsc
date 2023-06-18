@@ -4516,6 +4516,7 @@ add list=chinanet address=103.114.212.0/23 comment=china-net
 add list=chinanet address=103.116.76.0/23 comment=china-net
 add list=chinanet address=103.116.78.0/24 comment=china-net
 add list=chinanet address=103.116.120.0/23 comment=china-net
+add list=chinanet address=103.116.123.0/24 comment=china-net
 add list=chinanet address=103.117.16.0/22 comment=china-net
 add list=chinanet address=103.121.252.0/22 comment=china-net
 add list=chinanet address=103.132.212.0/23 comment=china-net
