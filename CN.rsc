@@ -367,6 +367,7 @@ add list=CN address=44.10.4.0/24 comment=china-all
 add list=CN address=44.31.28.0/24 comment=china-all
 add list=CN address=44.31.42.0/23 comment=china-all
 add list=CN address=44.31.81.0/24 comment=china-all
+add list=CN address=44.31.96.0/24 comment=china-all
 add list=CN address=44.31.113.0/24 comment=china-all
 add list=CN address=44.31.212.0/24 comment=china-all
 add list=CN address=44.159.64.0/22 comment=china-all
