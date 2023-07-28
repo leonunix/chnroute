@@ -2657,7 +2657,6 @@ add list=CN address=153.118.0.0/15 comment=china-all
 add list=CN address=153.254.119.0/24 comment=china-all
 add list=CN address=154.8.128.0/17 comment=china-all
 add list=CN address=154.19.37.0/24 comment=china-all
-add list=CN address=154.19.40.0/22 comment=china-all
 add list=CN address=154.39.71.0/24 comment=china-all
 add list=CN address=154.48.224.0/24 comment=china-all
 add list=CN address=154.48.226.0/23 comment=china-all
