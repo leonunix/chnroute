@@ -112,6 +112,7 @@ add list=CN address=36.255.116.0/22 comment=china-all
 add list=CN address=36.255.164.0/24 comment=china-all
 add list=CN address=36.255.192.0/23 comment=china-all
 add list=CN address=37.128.240.0/21 comment=china-all
+add list=CN address=38.6.227.0/24 comment=china-all
 add list=CN address=38.46.0.0/23 comment=china-all
 add list=CN address=38.60.34.0/24 comment=china-all
 add list=CN address=38.60.40.0/24 comment=china-all
@@ -483,7 +484,7 @@ add list=CN address=47.96.0.0/12 comment=china-all
 add list=CN address=47.112.0.0/13 comment=china-all
 add list=CN address=47.120.0.0/15 comment=china-all
 add list=CN address=47.122.0.0/17 comment=china-all
-add list=CN address=47.122.128.0/19 comment=china-all
+add list=CN address=47.122.128.0/18 comment=china-all
 add list=CN address=47.123.0.0/16 comment=china-all
 add list=CN address=47.246.0.0/22 comment=china-all
 add list=CN address=47.246.4.0/24 comment=china-all
