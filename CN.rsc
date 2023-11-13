@@ -3994,7 +3994,6 @@ add list=CN address=223.223.176.0/20 comment=china-all
 add list=CN address=223.223.192.0/20 comment=china-all
 add list=CN address=223.240.0.0/13 comment=china-all
 add list=CN address=223.248.0.0/14 comment=china-all
-add list=CN address=223.252.160.0/24 comment=china-all
 add list=CN address=223.252.192.0/19 comment=china-all
 add list=CN address=223.255.236.0/22 comment=china-all
 add list=CN address=223.255.252.0/23 comment=china-all
@@ -5688,7 +5687,6 @@ add list=chinanet address=223.220.0.0/15 comment=china-net
 add list=chinanet address=223.223.176.0/20 comment=china-net
 add list=chinanet address=223.223.192.0/20 comment=china-net
 add list=chinanet address=223.240.0.0/13 comment=china-net
-add list=chinanet address=223.252.160.0/24 comment=china-net
 add list=chinanet address=223.255.252.0/23 comment=china-net
 add list=cmcc address=36.128.0.0/10 comment=china-cmcc
 add list=cmcc address=36.192.0.0/11 comment=china-cmcc
@@ -6107,6 +6105,7 @@ add list=unicom address=103.59.148.0/22 comment=china-unicom
 add list=unicom address=103.59.164.0/22 comment=china-unicom
 add list=unicom address=103.61.153.0/24 comment=china-unicom
 add list=unicom address=103.61.154.0/23 comment=china-unicom
+add list=unicom address=103.61.189.0/24 comment=china-unicom
 add list=unicom address=103.61.190.0/23 comment=china-unicom
 add list=unicom address=103.63.160.0/21 comment=china-unicom
 add list=unicom address=103.68.128.0/22 comment=china-unicom
@@ -6208,8 +6207,6 @@ add list=unicom address=103.227.136.0/22 comment=china-unicom
 add list=unicom address=103.227.228.0/22 comment=china-unicom
 add list=unicom address=103.228.160.0/22 comment=china-unicom
 add list=unicom address=103.228.204.0/23 comment=china-unicom
-add list=unicom address=103.228.229.0/24 comment=china-unicom
-add list=unicom address=103.228.230.0/24 comment=china-unicom
 add list=unicom address=103.229.148.0/22 comment=china-unicom
 add list=unicom address=103.229.212.0/22 comment=china-unicom
 add list=unicom address=103.230.212.0/22 comment=china-unicom
