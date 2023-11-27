@@ -377,10 +377,10 @@ add list=CN address=44.31.96.0/24 comment=china-all
 add list=CN address=44.31.113.0/24 comment=china-all
 add list=CN address=44.31.212.0/24 comment=china-all
 add list=CN address=44.31.216.0/24 comment=china-all
+add list=CN address=44.31.234.0/24 comment=china-all
 add list=CN address=44.159.65.0/24 comment=china-all
 add list=CN address=44.159.73.0/24 comment=china-all
 add list=CN address=45.9.11.0/24 comment=china-all
-add list=CN address=45.9.74.0/24 comment=china-all
 add list=CN address=45.12.82.0/24 comment=china-all
 add list=CN address=45.40.192.0/18 comment=china-all
 add list=CN address=45.65.20.0/22 comment=china-all
