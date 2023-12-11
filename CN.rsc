@@ -6430,6 +6430,7 @@ add list=unicom address=106.3.208.0/21 comment=china-unicom
 add list=unicom address=106.3.224.0/21 comment=china-unicom
 add list=unicom address=106.74.0.0/16 comment=china-unicom
 add list=unicom address=106.75.0.0/17 comment=china-unicom
+add list=unicom address=106.75.128.0/18 comment=china-unicom
 add list=unicom address=106.75.208.0/20 comment=china-unicom
 add list=unicom address=106.75.224.0/19 comment=china-unicom
 add list=unicom address=110.6.0.0/15 comment=china-unicom
