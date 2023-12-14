@@ -373,7 +373,7 @@ add list=CN address=43.255.212.0/22 comment=china-all
 add list=CN address=43.255.224.0/21 comment=china-all
 add list=CN address=44.10.4.0/24 comment=china-all
 add list=CN address=44.31.28.0/24 comment=china-all
-add list=CN address=44.31.42.0/23 comment=china-all
+add list=CN address=44.31.42.0/24 comment=china-all
 add list=CN address=44.31.81.0/24 comment=china-all
 add list=CN address=44.31.113.0/24 comment=china-all
 add list=CN address=44.31.212.0/24 comment=china-all
@@ -1261,8 +1261,10 @@ add list=CN address=103.163.46.0/23 comment=china-all
 add list=CN address=103.163.180.0/24 comment=china-all
 add list=CN address=103.164.32.0/23 comment=china-all
 add list=CN address=103.164.76.0/23 comment=china-all
+add list=CN address=103.165.85.0/24 comment=china-all
 add list=CN address=103.165.110.0/23 comment=china-all
 add list=CN address=103.166.174.0/23 comment=china-all
+add list=CN address=103.169.50.0/23 comment=china-all
 add list=CN address=103.169.62.0/23 comment=china-all
 add list=CN address=103.170.4.0/23 comment=china-all
 add list=CN address=103.170.210.0/23 comment=china-all
@@ -1272,6 +1274,7 @@ add list=CN address=103.172.191.0/24 comment=china-all
 add list=CN address=103.174.94.0/23 comment=china-all
 add list=CN address=103.177.28.0/23 comment=china-all
 add list=CN address=103.177.44.0/24 comment=china-all
+add list=CN address=103.178.56.0/24 comment=china-all
 add list=CN address=103.179.78.0/23 comment=china-all
 add list=CN address=103.180.108.0/24 comment=china-all
 add list=CN address=103.181.234.0/24 comment=china-all
@@ -1721,6 +1724,7 @@ add list=CN address=113.130.96.0/20 comment=china-all
 add list=CN address=113.130.112.0/21 comment=china-all
 add list=CN address=113.132.0.0/14 comment=china-all
 add list=CN address=113.136.0.0/13 comment=china-all
+add list=CN address=113.192.56.0/24 comment=china-all
 add list=CN address=113.194.0.0/15 comment=china-all
 add list=CN address=113.197.101.0/24 comment=china-all
 add list=CN address=113.197.103.0/24 comment=china-all
@@ -2884,6 +2888,7 @@ add list=CN address=163.181.148.0/23 comment=china-all
 add list=CN address=163.181.153.0/24 comment=china-all
 add list=CN address=163.181.160.0/24 comment=china-all
 add list=CN address=163.181.162.0/23 comment=china-all
+add list=CN address=163.181.164.0/24 comment=china-all
 add list=CN address=163.181.166.0/23 comment=china-all
 add list=CN address=163.204.0.0/16 comment=china-all
 add list=CN address=163.228.0.0/16 comment=china-all
@@ -3424,7 +3429,9 @@ add list=CN address=203.119.160.0/24 comment=china-all
 add list=CN address=203.119.168.0/21 comment=china-all
 add list=CN address=203.119.176.0/20 comment=china-all
 add list=CN address=203.119.192.0/18 comment=china-all
-add list=CN address=203.129.8.0/21 comment=china-all
+add list=CN address=203.129.8.0/24 comment=china-all
+add list=CN address=203.129.10.0/23 comment=china-all
+add list=CN address=203.129.12.0/22 comment=china-all
 add list=CN address=203.130.40.0/21 comment=china-all
 add list=CN address=203.132.32.0/19 comment=china-all
 add list=CN address=203.134.240.0/21 comment=china-all
@@ -5568,7 +5575,9 @@ add list=chinanet address=203.110.208.0/20 comment=china-net
 add list=chinanet address=203.110.232.0/23 comment=china-net
 add list=chinanet address=203.119.28.0/23 comment=china-net
 add list=chinanet address=203.119.114.0/23 comment=china-net
-add list=chinanet address=203.129.8.0/21 comment=china-net
+add list=chinanet address=203.129.8.0/24 comment=china-net
+add list=chinanet address=203.129.10.0/23 comment=china-net
+add list=chinanet address=203.129.12.0/22 comment=china-net
 add list=chinanet address=203.130.40.0/21 comment=china-net
 add list=chinanet address=203.134.240.0/21 comment=china-net
 add list=chinanet address=203.148.86.0/23 comment=china-net
