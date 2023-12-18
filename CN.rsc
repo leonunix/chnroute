@@ -2820,7 +2820,6 @@ add list=CN address=160.181.160.0/19 comment=china-all
 add list=CN address=160.202.60.0/22 comment=china-all
 add list=CN address=160.202.168.0/22 comment=china-all
 add list=CN address=160.202.212.0/22 comment=china-all
-add list=CN address=160.214.111.0/24 comment=china-all
 add list=CN address=161.163.0.0/21 comment=china-all
 add list=CN address=161.163.28.0/23 comment=china-all
 add list=CN address=161.189.0.0/16 comment=china-all
@@ -3076,7 +3075,6 @@ add list=CN address=192.163.11.0/24 comment=china-all
 add list=CN address=192.169.104.0/22 comment=china-all
 add list=CN address=192.232.97.0/24 comment=china-all
 add list=CN address=193.112.0.0/16 comment=china-all
-add list=CN address=193.162.29.0/24 comment=china-all
 add list=CN address=194.15.39.0/24 comment=china-all
 add list=CN address=194.50.1.0/24 comment=china-all
 add list=CN address=194.119.13.0/24 comment=china-all
