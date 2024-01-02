@@ -813,6 +813,7 @@ add list=CN address=101.254.32.0/19 comment=china-all
 add list=CN address=101.254.64.0/18 comment=china-all
 add list=CN address=101.254.128.0/17 comment=china-all
 add list=CN address=103.1.10.0/23 comment=china-all
+add list=CN address=103.1.158.0/24 comment=china-all
 add list=CN address=103.1.168.0/22 comment=china-all
 add list=CN address=103.2.108.0/22 comment=china-all
 add list=CN address=103.2.208.0/22 comment=china-all
