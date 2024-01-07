@@ -66,7 +66,6 @@ add list=CN address=23.26.67.0/24 comment=china-all
 add list=CN address=23.26.98.0/24 comment=china-all
 add list=CN address=23.26.239.0/24 comment=china-all
 add list=CN address=23.144.232.0/24 comment=china-all
-add list=CN address=23.146.72.0/24 comment=china-all
 add list=CN address=23.164.72.0/24 comment=china-all
 add list=CN address=23.167.8.0/24 comment=china-all
 add list=CN address=27.0.128.0/24 comment=china-all
