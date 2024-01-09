@@ -647,7 +647,7 @@ add list=CN address=59.153.4.0/22 comment=china-all
 add list=CN address=59.153.32.0/22 comment=china-all
 add list=CN address=59.153.92.0/22 comment=china-all
 add list=CN address=59.153.116.0/22 comment=china-all
-add list=CN address=59.153.168.0/24 comment=china-all
+add list=CN address=59.153.168.0/23 comment=china-all
 add list=CN address=59.172.0.0/14 comment=china-all
 add list=CN address=59.252.0.0/16 comment=china-all
 add list=CN address=60.0.0.0/11 comment=china-all
@@ -1481,7 +1481,7 @@ add list=CN address=103.244.80.0/22 comment=china-all
 add list=CN address=103.244.148.0/22 comment=china-all
 add list=CN address=103.244.164.0/22 comment=china-all
 add list=CN address=103.244.232.0/22 comment=china-all
-add list=CN address=103.245.25.0/24 comment=china-all
+add list=CN address=103.245.24.0/23 comment=china-all
 add list=CN address=103.245.128.0/22 comment=china-all
 add list=CN address=103.246.8.0/22 comment=china-all
 add list=CN address=103.246.152.0/22 comment=china-all
@@ -2770,7 +2770,6 @@ add list=CN address=156.107.178.0/23 comment=china-all
 add list=CN address=156.107.180.0/23 comment=china-all
 add list=CN address=156.224.8.0/21 comment=china-all
 add list=CN address=156.225.130.0/24 comment=china-all
-add list=CN address=156.227.240.0/21 comment=china-all
 add list=CN address=156.230.11.0/24 comment=china-all
 add list=CN address=156.230.12.0/23 comment=china-all
 add list=CN address=156.230.24.0/24 comment=china-all
@@ -5936,9 +5935,6 @@ add list=cmcc address=223.160.192.0/19 comment=china-cmcc
 add list=cmcc address=223.160.224.0/21 comment=china-cmcc
 add list=cmcc address=223.160.232.0/22 comment=china-cmcc
 add list=cmcc address=223.160.236.0/23 comment=china-cmcc
-add list=cmcc address=223.223.192.0/21 comment=china-cmcc
-add list=cmcc address=223.223.200.0/22 comment=china-cmcc
-add list=cmcc address=223.223.204.0/23 comment=china-cmcc
 add list=unicom address=1.1.8.0/24 comment=china-unicom
 add list=unicom address=1.24.0.0/13 comment=china-unicom
 add list=unicom address=1.56.0.0/13 comment=china-unicom
