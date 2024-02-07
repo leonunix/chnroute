@@ -6906,7 +6906,6 @@ add list=unicom address=168.159.158.0/24 comment=china-unicom
 add list=unicom address=168.160.224.0/19 comment=china-unicom
 add list=unicom address=171.34.0.0/15 comment=china-unicom
 add list=unicom address=171.36.0.0/14 comment=china-unicom
-add list=unicom address=171.84.0.0/21 comment=china-unicom
 add list=unicom address=171.116.0.0/14 comment=china-unicom
 add list=unicom address=171.120.0.0/13 comment=china-unicom
 add list=unicom address=175.16.0.0/13 comment=china-unicom
@@ -7140,7 +7139,6 @@ add list=unicom address=211.147.160.0/19 comment=china-unicom
 add list=unicom address=211.148.64.0/18 comment=china-unicom
 add list=unicom address=211.152.57.0/24 comment=china-unicom
 add list=unicom address=211.152.58.0/24 comment=china-unicom
-add list=unicom address=211.153.88.0/22 comment=china-unicom
 add list=unicom address=211.153.92.0/23 comment=china-unicom
 add list=unicom address=211.153.94.0/24 comment=china-unicom
 add list=unicom address=211.153.112.0/21 comment=china-unicom
