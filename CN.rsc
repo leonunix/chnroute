@@ -1016,7 +1016,6 @@ add list=CN address=103.73.48.0/24 comment=china-all
 add list=CN address=103.73.116.0/22 comment=china-all
 add list=CN address=103.73.136.0/21 comment=china-all
 add list=CN address=103.73.144.0/22 comment=china-all
-add list=CN address=103.73.158.0/24 comment=china-all
 add list=CN address=103.73.204.0/22 comment=china-all
 add list=CN address=103.74.24.0/21 comment=china-all
 add list=CN address=103.74.32.0/20 comment=china-all
