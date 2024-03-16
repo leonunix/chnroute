@@ -37,7 +37,6 @@ add list=CN address=5.154.136.0/22 comment=china-all
 add list=CN address=5.154.140.0/23 comment=china-all
 add list=CN address=5.154.158.0/23 comment=china-all
 add list=CN address=8.21.143.0/24 comment=china-all
-add list=CN address=8.25.82.0/24 comment=china-all
 add list=CN address=8.38.121.0/24 comment=china-all
 add list=CN address=8.45.52.0/24 comment=china-all
 add list=CN address=8.45.176.0/24 comment=china-all
@@ -492,7 +491,7 @@ add list=CN address=47.246.8.0/24 comment=china-all
 add list=CN address=47.246.10.0/24 comment=china-all
 add list=CN address=47.246.12.0/23 comment=china-all
 add list=CN address=47.246.15.0/24 comment=china-all
-add list=CN address=47.246.16.0/23 comment=china-all
+add list=CN address=47.246.16.0/24 comment=china-all
 add list=CN address=47.246.18.0/24 comment=china-all
 add list=CN address=47.246.20.0/24 comment=china-all
 add list=CN address=47.246.22.0/23 comment=china-all
@@ -2854,6 +2853,7 @@ add list=CN address=163.181.160.0/24 comment=china-all
 add list=CN address=163.181.162.0/23 comment=china-all
 add list=CN address=163.181.164.0/24 comment=china-all
 add list=CN address=163.181.166.0/23 comment=china-all
+add list=CN address=163.181.171.0/24 comment=china-all
 add list=CN address=163.181.188.0/24 comment=china-all
 add list=CN address=163.181.191.0/24 comment=china-all
 add list=CN address=163.204.0.0/16 comment=china-all
@@ -4017,9 +4017,7 @@ add list=CN address=222.126.160.0/21 comment=china-all
 add list=CN address=222.126.168.0/22 comment=china-all
 add list=CN address=222.126.172.0/23 comment=china-all
 add list=CN address=222.126.174.0/24 comment=china-all
-add list=CN address=222.126.176.0/22 comment=china-all
-add list=CN address=222.126.180.0/23 comment=china-all
-add list=CN address=222.126.183.0/24 comment=china-all
+add list=CN address=222.126.176.0/21 comment=china-all
 add list=CN address=222.126.192.0/22 comment=china-all
 add list=CN address=222.126.196.0/23 comment=china-all
 add list=CN address=222.126.208.0/23 comment=china-all
