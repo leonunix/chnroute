@@ -47,7 +47,6 @@ add list=CN address=8.132.0.0/14 comment=china-all
 add list=CN address=8.136.0.0/13 comment=china-all
 add list=CN address=8.144.0.0/14 comment=china-all
 add list=CN address=8.148.0.0/19 comment=china-all
-add list=CN address=8.148.32.0/22 comment=china-all
 add list=CN address=8.149.0.0/16 comment=china-all
 add list=CN address=8.244.36.0/24 comment=china-all
 add list=CN address=14.16.0.0/12 comment=china-all
