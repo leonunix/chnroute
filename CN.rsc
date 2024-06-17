@@ -3509,7 +3509,6 @@ add list=CN address=203.170.58.0/23 comment=china-all
 add list=CN address=203.174.4.0/24 comment=china-all
 add list=CN address=203.174.7.0/24 comment=china-all
 add list=CN address=203.174.112.0/20 comment=china-all
-add list=CN address=203.175.12.0/23 comment=china-all
 add list=CN address=203.175.14.0/24 comment=china-all
 add list=CN address=203.175.128.0/19 comment=china-all
 add list=CN address=203.176.92.0/22 comment=china-all
