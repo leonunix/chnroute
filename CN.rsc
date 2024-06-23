@@ -3860,7 +3860,7 @@ add list=CN address=218.64.0.0/11 comment=china-all
 add list=CN address=218.96.0.0/24 comment=china-all
 add list=CN address=218.96.64.0/22 comment=china-all
 add list=CN address=218.96.104.0/22 comment=china-all
-add list=CN address=218.96.108.0/23 comment=china-all
+add list=CN address=218.96.109.0/24 comment=china-all
 add list=CN address=218.96.241.0/24 comment=china-all
 add list=CN address=218.96.244.0/24 comment=china-all
 add list=CN address=218.96.255.0/24 comment=china-all
