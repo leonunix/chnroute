@@ -6924,6 +6924,7 @@ add list=unicom address=180.178.252.0/22 comment=china-unicom
 add list=unicom address=180.184.144.0/21 comment=china-unicom
 add list=unicom address=180.184.152.0/22 comment=china-unicom
 add list=unicom address=180.184.184.0/22 comment=china-unicom
+add list=unicom address=182.18.80.0/20 comment=china-unicom
 add list=unicom address=182.48.96.0/20 comment=china-unicom
 add list=unicom address=182.48.112.0/21 comment=china-unicom
 add list=unicom address=182.50.8.0/21 comment=china-unicom
