@@ -214,7 +214,8 @@ add list=CN address=43.224.24.0/22 comment=china-all
 add list=CN address=43.224.52.0/23 comment=china-all
 add list=CN address=43.224.56.0/22 comment=china-all
 add list=CN address=43.224.80.0/22 comment=china-all
-add list=CN address=43.224.149.0/24 comment=china-all
+add list=CN address=43.224.148.0/23 comment=china-all
+add list=CN address=43.224.151.0/24 comment=china-all
 add list=CN address=43.224.208.0/22 comment=china-all
 add list=CN address=43.225.84.0/23 comment=china-all
 add list=CN address=43.225.87.0/24 comment=china-all
@@ -1200,6 +1201,7 @@ add list=CN address=103.135.236.0/24 comment=china-all
 add list=CN address=103.137.60.0/24 comment=china-all
 add list=CN address=103.138.156.0/23 comment=china-all
 add list=CN address=103.139.136.0/23 comment=china-all
+add list=CN address=103.139.172.0/23 comment=china-all
 add list=CN address=103.139.212.0/23 comment=china-all
 add list=CN address=103.140.14.0/23 comment=china-all
 add list=CN address=103.140.152.0/23 comment=china-all
@@ -1500,8 +1502,7 @@ add list=CN address=103.250.32.0/22 comment=china-all
 add list=CN address=103.250.104.0/22 comment=china-all
 add list=CN address=103.250.192.0/22 comment=china-all
 add list=CN address=103.250.216.0/22 comment=china-all
-add list=CN address=103.250.248.0/22 comment=china-all
-add list=CN address=103.250.252.0/24 comment=china-all
+add list=CN address=103.250.248.0/21 comment=china-all
 add list=CN address=103.251.32.0/22 comment=china-all
 add list=CN address=103.251.84.0/22 comment=china-all
 add list=CN address=103.251.96.0/22 comment=china-all
@@ -3502,6 +3503,7 @@ add list=CN address=203.168.18.0/24 comment=china-all
 add list=CN address=203.170.58.0/23 comment=china-all
 add list=CN address=203.174.4.0/24 comment=china-all
 add list=CN address=203.174.7.0/24 comment=china-all
+add list=CN address=203.174.96.0/19 comment=china-all
 add list=CN address=203.175.14.0/23 comment=china-all
 add list=CN address=203.175.128.0/19 comment=china-all
 add list=CN address=203.176.92.0/22 comment=china-all
