@@ -887,8 +887,7 @@ add list=CN address=103.31.52.0/24 comment=china-all
 add list=CN address=103.31.56.0/22 comment=china-all
 add list=CN address=103.31.168.0/22 comment=china-all
 add list=CN address=103.31.200.0/22 comment=china-all
-add list=CN address=103.31.236.0/23 comment=china-all
-add list=CN address=103.31.238.0/24 comment=china-all
+add list=CN address=103.31.236.0/22 comment=china-all
 add list=CN address=103.35.104.0/22 comment=china-all
 add list=CN address=103.36.28.0/22 comment=china-all
 add list=CN address=103.36.36.0/22 comment=china-all
