@@ -1503,7 +1503,7 @@ add list=CN address=103.244.76.0/22 comment=china-all
 add list=CN address=103.244.80.0/22 comment=china-all
 add list=CN address=103.244.164.0/22 comment=china-all
 add list=CN address=103.244.232.0/22 comment=china-all
-add list=CN address=103.245.24.0/23 comment=china-all
+add list=CN address=103.245.25.0/24 comment=china-all
 add list=CN address=103.245.128.0/22 comment=china-all
 add list=CN address=103.246.152.0/22 comment=china-all
 add list=CN address=103.247.168.0/22 comment=china-all
