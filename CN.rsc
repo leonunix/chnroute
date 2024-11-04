@@ -3213,6 +3213,7 @@ add list=CN address=183.192.0.0/10 comment=china-all
 add list=CN address=185.75.172.0/23 comment=china-all
 add list=CN address=185.75.174.0/24 comment=china-all
 add list=CN address=185.78.106.0/23 comment=china-all
+add list=CN address=185.255.152.0/24 comment=china-all
 add list=CN address=188.131.128.0/17 comment=china-all
 add list=CN address=191.101.45.0/24 comment=china-all
 add list=CN address=191.101.47.0/24 comment=china-all
