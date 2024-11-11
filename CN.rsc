@@ -3227,7 +3227,6 @@ add list=CN address=192.102.204.0/22 comment=china-all
 add list=CN address=192.140.208.0/21 comment=china-all
 add list=CN address=192.144.128.0/17 comment=china-all
 add list=CN address=192.163.11.0/24 comment=china-all
-add list=CN address=192.208.2.0/24 comment=china-all
 add list=CN address=192.232.97.0/24 comment=china-all
 add list=CN address=193.112.0.0/16 comment=china-all
 add list=CN address=194.15.39.0/24 comment=china-all
