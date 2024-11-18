@@ -3064,7 +3064,6 @@ add list=CN address=168.160.158.0/23 comment=china-all
 add list=CN address=168.160.160.0/21 comment=china-all
 add list=CN address=168.160.168.0/24 comment=china-all
 add list=CN address=168.160.224.0/19 comment=china-all
-add list=CN address=170.82.72.0/23 comment=china-all
 add list=CN address=170.254.241.0/24 comment=china-all
 add list=CN address=171.8.0.0/13 comment=china-all
 add list=CN address=171.34.0.0/15 comment=china-all
