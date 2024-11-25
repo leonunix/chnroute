@@ -2232,7 +2232,7 @@ add list=CN address=118.242.16.0/22 comment=china-all
 add list=CN address=118.242.24.0/22 comment=china-all
 add list=CN address=118.242.32.0/22 comment=china-all
 add list=CN address=118.242.40.0/24 comment=china-all
-add list=CN address=118.242.64.0/23 comment=china-all
+add list=CN address=118.242.64.0/24 comment=china-all
 add list=CN address=118.242.236.0/22 comment=china-all
 add list=CN address=118.244.0.0/21 comment=china-all
 add list=CN address=118.244.128.0/17 comment=china-all
