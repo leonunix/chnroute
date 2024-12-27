@@ -2903,7 +2903,7 @@ add list=CN address=155.102.52.0/24 comment=china-all
 add list=CN address=155.102.54.0/24 comment=china-all
 add list=CN address=155.102.56.0/23 comment=china-all
 add list=CN address=155.102.59.0/24 comment=china-all
-add list=CN address=155.102.60.0/24 comment=china-all
+add list=CN address=155.102.60.0/23 comment=china-all
 add list=CN address=155.126.176.0/23 comment=china-all
 add list=CN address=156.59.108.0/24 comment=china-all
 add list=CN address=156.59.202.0/23 comment=china-all
@@ -2957,6 +2957,7 @@ add list=CN address=160.30.148.0/23 comment=china-all
 add list=CN address=160.83.110.0/24 comment=china-all
 add list=CN address=160.202.212.0/22 comment=china-all
 add list=CN address=160.202.224.0/19 comment=china-all
+add list=CN address=160.250.14.0/23 comment=china-all
 add list=CN address=161.163.0.0/21 comment=china-all
 add list=CN address=161.163.28.0/23 comment=china-all
 add list=CN address=161.189.0.0/16 comment=china-all
@@ -2985,7 +2986,7 @@ add list=CN address=163.181.26.0/24 comment=china-all
 add list=CN address=163.181.28.0/24 comment=china-all
 add list=CN address=163.181.32.0/21 comment=china-all
 add list=CN address=163.181.40.0/24 comment=china-all
-add list=CN address=163.181.42.0/24 comment=china-all
+add list=CN address=163.181.42.0/23 comment=china-all
 add list=CN address=163.181.44.0/24 comment=china-all
 add list=CN address=163.181.49.0/24 comment=china-all
 add list=CN address=163.181.50.0/24 comment=china-all
@@ -3040,7 +3041,8 @@ add list=CN address=163.181.202.0/23 comment=china-all
 add list=CN address=163.181.204.0/22 comment=china-all
 add list=CN address=163.181.208.0/24 comment=china-all
 add list=CN address=163.181.210.0/23 comment=china-all
-add list=CN address=163.181.212.0/22 comment=china-all
+add list=CN address=163.181.213.0/24 comment=china-all
+add list=CN address=163.181.214.0/23 comment=china-all
 add list=CN address=163.181.216.0/22 comment=china-all
 add list=CN address=163.181.220.0/23 comment=china-all
 add list=CN address=163.181.224.0/23 comment=china-all
