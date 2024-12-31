@@ -2983,7 +2983,7 @@ add list=CN address=163.181.26.0/24 comment=china-all
 add list=CN address=163.181.28.0/24 comment=china-all
 add list=CN address=163.181.32.0/21 comment=china-all
 add list=CN address=163.181.40.0/24 comment=china-all
-add list=CN address=163.181.42.0/24 comment=china-all
+add list=CN address=163.181.42.0/23 comment=china-all
 add list=CN address=163.181.44.0/24 comment=china-all
 add list=CN address=163.181.49.0/24 comment=china-all
 add list=CN address=163.181.50.0/24 comment=china-all
@@ -3643,6 +3643,7 @@ add list=CN address=203.170.58.0/23 comment=china-all
 add list=CN address=203.174.4.0/24 comment=china-all
 add list=CN address=203.174.7.0/24 comment=china-all
 add list=CN address=203.174.96.0/19 comment=china-all
+add list=CN address=203.175.12.0/24 comment=china-all
 add list=CN address=203.175.14.0/23 comment=china-all
 add list=CN address=203.175.128.0/19 comment=china-all
 add list=CN address=203.176.92.0/22 comment=china-all
@@ -4063,7 +4064,8 @@ add list=CN address=219.234.128.0/17 comment=china-all
 add list=CN address=219.235.0.0/20 comment=china-all
 add list=CN address=219.235.32.0/19 comment=china-all
 add list=CN address=219.235.64.0/18 comment=china-all
-add list=CN address=219.235.128.0/19 comment=china-all
+add list=CN address=219.235.128.0/20 comment=china-all
+add list=CN address=219.235.144.0/21 comment=china-all
 add list=CN address=219.235.192.0/23 comment=china-all
 add list=CN address=219.235.207.0/24 comment=china-all
 add list=CN address=219.235.224.0/22 comment=china-all
@@ -5941,6 +5943,7 @@ add list=chinanet address=220.113.96.0/21 comment=china-net
 add list=chinanet address=220.113.150.0/23 comment=china-net
 add list=chinanet address=220.113.152.0/21 comment=china-net
 add list=chinanet address=220.113.160.0/21 comment=china-net
+add list=chinanet address=220.113.224.0/19 comment=china-net
 add list=chinanet address=220.160.0.0/12 comment=china-net
 add list=chinanet address=220.176.0.0/14 comment=china-net
 add list=chinanet address=220.180.0.0/16 comment=china-net
