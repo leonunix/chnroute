@@ -1217,6 +1217,7 @@ add list=CN address=103.135.100.0/24 comment=china-all
 add list=CN address=103.135.160.0/22 comment=china-all
 add list=CN address=103.135.236.0/24 comment=china-all
 add list=CN address=103.137.60.0/24 comment=china-all
+add list=CN address=103.138.156.0/23 comment=china-all
 add list=CN address=103.139.136.0/23 comment=china-all
 add list=CN address=103.139.172.0/23 comment=china-all
 add list=CN address=103.139.212.0/23 comment=china-all
