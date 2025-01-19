@@ -3018,7 +3018,7 @@ add list=CN address=163.181.201.0/24 comment=china-all
 add list=CN address=163.181.202.0/23 comment=china-all
 add list=CN address=163.181.204.0/22 comment=china-all
 add list=CN address=163.181.209.0/24 comment=china-all
-add list=CN address=163.181.210.0/23 comment=china-all
+add list=CN address=163.181.210.0/24 comment=china-all
 add list=CN address=163.181.212.0/22 comment=china-all
 add list=CN address=163.181.216.0/21 comment=china-all
 add list=CN address=163.181.224.0/23 comment=china-all
