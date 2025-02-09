@@ -3013,6 +3013,7 @@ add list=CN address=163.181.228.0/22 comment=china-all
 add list=CN address=163.181.232.0/24 comment=china-all
 add list=CN address=163.181.234.0/24 comment=china-all
 add list=CN address=163.181.236.0/22 comment=china-all
+add list=CN address=163.181.241.0/24 comment=china-all
 add list=CN address=163.181.244.0/23 comment=china-all
 add list=CN address=163.181.246.0/24 comment=china-all
 add list=CN address=163.181.248.0/22 comment=china-all
