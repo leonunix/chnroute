@@ -735,8 +735,6 @@ add list=CN address=81.68.0.0/14 comment=china-all
 add list=CN address=81.173.18.0/23 comment=china-all
 add list=CN address=81.173.20.0/22 comment=china-all
 add list=CN address=81.173.28.0/24 comment=china-all
-add list=CN address=82.24.57.0/24 comment=china-all
-add list=CN address=82.24.183.0/24 comment=china-all
 add list=CN address=82.156.0.0/15 comment=china-all
 add list=CN address=85.237.205.0/24 comment=china-all
 add list=CN address=94.191.0.0/17 comment=china-all
@@ -2908,7 +2906,8 @@ add list=CN address=157.122.0.0/16 comment=china-all
 add list=CN address=157.148.0.0/16 comment=china-all
 add list=CN address=157.156.0.0/16 comment=china-all
 add list=CN address=157.255.0.0/16 comment=china-all
-add list=CN address=158.140.252.0/22 comment=china-all
+add list=CN address=158.140.252.0/23 comment=china-all
+add list=CN address=158.140.254.0/24 comment=china-all
 add list=CN address=159.27.0.0/16 comment=china-all
 add list=CN address=159.75.0.0/16 comment=china-all
 add list=CN address=159.226.0.0/16 comment=china-all
@@ -3024,7 +3023,6 @@ add list=CN address=163.204.0.0/16 comment=china-all
 add list=CN address=163.228.0.0/16 comment=china-all
 add list=CN address=163.244.246.0/24 comment=china-all
 add list=CN address=164.155.133.0/24 comment=china-all
-add list=CN address=165.140.26.0/23 comment=china-all
 add list=CN address=166.111.0.0/16 comment=china-all
 add list=CN address=167.139.0.0/16 comment=china-all
 add list=CN address=167.220.244.0/22 comment=china-all
@@ -3941,7 +3939,6 @@ add list=CN address=211.167.176.0/20 comment=china-all
 add list=CN address=211.167.224.0/19 comment=china-all
 add list=CN address=212.64.0.0/17 comment=china-all
 add list=CN address=212.129.128.0/17 comment=china-all
-add list=CN address=213.18.196.0/22 comment=china-all
 add list=CN address=218.0.0.0/11 comment=china-all
 add list=CN address=218.56.0.0/13 comment=china-all
 add list=CN address=218.64.0.0/11 comment=china-all
@@ -5388,7 +5385,6 @@ add list=chinanet address=155.126.176.0/23 comment=china-net
 add list=chinanet address=156.242.5.0/24 comment=china-net
 add list=chinanet address=156.242.6.0/24 comment=china-net
 add list=chinanet address=157.119.28.0/22 comment=china-net
-add list=chinanet address=158.140.252.0/23 comment=china-net
 add list=chinanet address=160.19.208.0/22 comment=china-net
 add list=chinanet address=160.20.18.0/24 comment=china-net
 add list=chinanet address=160.22.188.0/24 comment=china-net
