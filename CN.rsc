@@ -3022,7 +3022,7 @@ add list=CN address=163.181.248.0/22 comment=china-all
 add list=CN address=163.181.253.0/24 comment=china-all
 add list=CN address=163.181.254.0/23 comment=china-all
 add list=CN address=163.204.0.0/16 comment=china-all
-add list=CN address=163.223.178.0/24 comment=china-all
+add list=CN address=163.223.178.0/23 comment=china-all
 add list=CN address=163.228.0.0/16 comment=china-all
 add list=CN address=163.244.246.0/24 comment=china-all
 add list=CN address=164.155.133.0/24 comment=china-all
