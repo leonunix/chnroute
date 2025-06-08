@@ -416,7 +416,6 @@ add list=CN address=45.127.131.0/24 comment=china-all
 add list=CN address=45.127.144.0/21 comment=china-all
 add list=CN address=45.147.6.0/24 comment=china-all
 add list=CN address=45.151.47.0/24 comment=china-all
-add list=CN address=45.157.88.0/24 comment=china-all
 add list=CN address=45.195.6.0/24 comment=china-all
 add list=CN address=45.197.131.0/24 comment=china-all
 add list=CN address=45.202.209.0/24 comment=china-all
