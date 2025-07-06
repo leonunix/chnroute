@@ -715,6 +715,7 @@ add list=CN address=71.132.0.0/18 comment=china-all
 add list=CN address=71.136.64.0/18 comment=china-all
 add list=CN address=71.137.0.0/18 comment=china-all
 add list=CN address=79.133.176.0/24 comment=china-all
+add list=CN address=81.28.64.0/20 comment=china-all
 add list=CN address=81.68.0.0/14 comment=china-all
 add list=CN address=81.173.18.0/23 comment=china-all
 add list=CN address=81.173.20.0/22 comment=china-all
@@ -2892,7 +2893,7 @@ add list=CN address=156.59.206.0/24 comment=china-all
 add list=CN address=156.59.216.0/24 comment=china-all
 add list=CN address=156.107.160.0/24 comment=china-all
 add list=CN address=156.107.170.0/24 comment=china-all
-add list=CN address=156.107.178.0/23 comment=china-all
+add list=CN address=156.107.179.0/24 comment=china-all
 add list=CN address=156.107.181.0/24 comment=china-all
 add list=CN address=156.230.11.0/24 comment=china-all
 add list=CN address=156.231.163.0/24 comment=china-all
@@ -4195,7 +4196,8 @@ add list=CN address=222.240.0.0/13 comment=china-all
 add list=CN address=222.248.0.0/15 comment=china-all
 add list=CN address=223.0.1.0/24 comment=china-all
 add list=CN address=223.0.2.0/24 comment=china-all
-add list=CN address=223.0.8.0/22 comment=china-all
+add list=CN address=223.0.8.0/23 comment=china-all
+add list=CN address=223.0.10.0/24 comment=china-all
 add list=CN address=223.0.12.0/23 comment=china-all
 add list=CN address=223.0.15.0/24 comment=china-all
 add list=CN address=223.0.16.0/24 comment=china-all
@@ -5246,7 +5248,7 @@ add list=chinanet address=120.136.20.0/23 comment=china-net
 add list=chinanet address=120.136.23.0/24 comment=china-net
 add list=chinanet address=120.136.156.0/22 comment=china-net
 add list=chinanet address=120.136.160.0/21 comment=china-net
-add list=chinanet address=120.136.186.0/23 comment=china-net
+add list=chinanet address=120.136.184.0/22 comment=china-net
 add list=chinanet address=121.8.0.0/13 comment=china-net
 add list=chinanet address=121.32.0.0/14 comment=china-net
 add list=chinanet address=121.46.0.0/20 comment=china-net
