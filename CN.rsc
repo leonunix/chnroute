@@ -46,6 +46,7 @@ add list=CN address=8.148.64.0/18 comment=china-all
 add list=CN address=8.148.128.0/17 comment=china-all
 add list=CN address=8.149.0.0/16 comment=china-all
 add list=CN address=8.150.0.0/20 comment=china-all
+add list=CN address=8.150.16.0/21 comment=china-all
 add list=CN address=8.150.64.0/23 comment=china-all
 add list=CN address=8.152.0.0/13 comment=china-all
 add list=CN address=8.160.0.0/15 comment=china-all
@@ -488,7 +489,8 @@ add list=CN address=47.246.48.0/23 comment=china-all
 add list=CN address=47.246.50.0/24 comment=china-all
 add list=CN address=47.246.57.0/24 comment=china-all
 add list=CN address=47.246.58.0/24 comment=china-all
-add list=CN address=47.246.60.0/22 comment=china-all
+add list=CN address=47.246.60.0/23 comment=china-all
+add list=CN address=47.246.62.0/24 comment=china-all
 add list=CN address=49.4.0.0/18 comment=china-all
 add list=CN address=49.4.64.0/19 comment=china-all
 add list=CN address=49.4.96.0/20 comment=china-all
@@ -1446,6 +1448,7 @@ add list=CN address=103.238.184.0/21 comment=china-all
 add list=CN address=103.238.204.0/22 comment=china-all
 add list=CN address=103.239.68.0/22 comment=china-all
 add list=CN address=103.239.152.0/22 comment=china-all
+add list=CN address=103.239.184.0/24 comment=china-all
 add list=CN address=103.239.192.0/22 comment=china-all
 add list=CN address=103.239.204.0/22 comment=china-all
 add list=CN address=103.239.224.0/22 comment=china-all
@@ -6132,8 +6135,7 @@ add list=cmcc address=103.239.152.0/22 comment=china-cmcc
 add list=cmcc address=103.239.204.0/22 comment=china-cmcc
 add list=cmcc address=103.252.36.0/22 comment=china-cmcc
 add list=cmcc address=103.253.232.0/22 comment=china-cmcc
-add list=cmcc address=103.255.68.0/23 comment=china-cmcc
-add list=cmcc address=103.255.70.0/24 comment=china-cmcc
+add list=cmcc address=103.255.68.0/22 comment=china-cmcc
 add list=cmcc address=106.3.144.0/21 comment=china-cmcc
 add list=cmcc address=106.13.252.0/22 comment=china-cmcc
 add list=cmcc address=106.75.0.0/17 comment=china-cmcc
