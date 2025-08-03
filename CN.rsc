@@ -84,6 +84,8 @@ add list=CN address=27.152.0.0/13 comment=china-all
 add list=CN address=27.184.0.0/13 comment=china-all
 add list=CN address=27.192.0.0/11 comment=china-all
 add list=CN address=27.224.0.0/14 comment=china-all
+add list=CN address=31.56.66.0/24 comment=china-all
+add list=CN address=31.57.248.0/24 comment=china-all
 add list=CN address=36.1.0.0/16 comment=china-all
 add list=CN address=36.4.0.0/14 comment=china-all
 add list=CN address=36.16.0.0/12 comment=china-all
@@ -1218,6 +1220,7 @@ add list=CN address=103.150.181.0/24 comment=china-all
 add list=CN address=103.150.212.0/24 comment=china-all
 add list=CN address=103.151.5.0/24 comment=china-all
 add list=CN address=103.151.148.0/23 comment=china-all
+add list=CN address=103.151.178.0/23 comment=china-all
 add list=CN address=103.151.216.0/23 comment=china-all
 add list=CN address=103.152.28.0/23 comment=china-all
 add list=CN address=103.152.56.0/23 comment=china-all
@@ -4367,8 +4370,7 @@ add list=chinanet address=45.121.52.0/24 comment=china-net
 add list=chinanet address=45.121.55.0/24 comment=china-net
 add list=chinanet address=45.123.168.0/21 comment=china-net
 add list=chinanet address=45.123.176.0/21 comment=china-net
-add list=chinanet address=45.124.20.0/23 comment=china-net
-add list=chinanet address=45.124.23.0/24 comment=china-net
+add list=chinanet address=45.124.20.0/22 comment=china-net
 add list=chinanet address=45.124.68.0/22 comment=china-net
 add list=chinanet address=45.124.80.0/22 comment=china-net
 add list=chinanet address=45.124.124.0/22 comment=china-net
@@ -6117,6 +6119,7 @@ add list=cmcc address=103.239.244.0/23 comment=china-cmcc
 add list=cmcc address=103.252.36.0/22 comment=china-cmcc
 add list=cmcc address=103.253.232.0/22 comment=china-cmcc
 add list=cmcc address=103.255.68.0/23 comment=china-cmcc
+add list=cmcc address=103.255.70.0/24 comment=china-cmcc
 add list=cmcc address=106.3.144.0/21 comment=china-cmcc
 add list=cmcc address=106.13.252.0/22 comment=china-cmcc
 add list=cmcc address=106.75.0.0/17 comment=china-cmcc
