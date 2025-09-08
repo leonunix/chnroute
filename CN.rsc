@@ -709,6 +709,7 @@ add list=CN address=71.131.192.0/18 comment=china-all
 add list=CN address=71.132.0.0/18 comment=china-all
 add list=CN address=71.136.64.0/18 comment=china-all
 add list=CN address=71.137.0.0/18 comment=china-all
+add list=CN address=74.122.24.0/24 comment=china-all
 add list=CN address=77.107.118.0/24 comment=china-all
 add list=CN address=81.68.0.0/14 comment=china-all
 add list=CN address=81.173.18.0/23 comment=china-all
@@ -1338,7 +1339,6 @@ add list=CN address=103.207.228.0/22 comment=china-all
 add list=CN address=103.208.12.0/22 comment=china-all
 add list=CN address=103.208.48.0/22 comment=china-all
 add list=CN address=103.209.112.0/22 comment=china-all
-add list=CN address=103.210.160.0/22 comment=china-all
 add list=CN address=103.210.170.0/23 comment=china-all
 add list=CN address=103.211.44.0/22 comment=china-all
 add list=CN address=103.211.220.0/22 comment=china-all
@@ -6788,7 +6788,6 @@ add list=unicom address=103.205.188.0/22 comment=china-unicom
 add list=unicom address=103.205.192.0/22 comment=china-unicom
 add list=unicom address=103.205.252.0/22 comment=china-unicom
 add list=unicom address=103.207.228.0/22 comment=china-unicom
-add list=unicom address=103.210.160.0/22 comment=china-unicom
 add list=unicom address=103.211.220.0/22 comment=china-unicom
 add list=unicom address=103.212.4.0/22 comment=china-unicom
 add list=unicom address=103.213.64.0/19 comment=china-unicom
