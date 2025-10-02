@@ -499,6 +499,7 @@ add list=CN address=49.128.220.0/24 comment=china-all
 add list=CN address=49.128.223.0/24 comment=china-all
 add list=CN address=49.140.0.0/15 comment=china-all
 add list=CN address=49.208.0.0/14 comment=china-all
+add list=CN address=49.213.62.0/24 comment=china-all
 add list=CN address=49.221.26.0/23 comment=china-all
 add list=CN address=49.221.64.0/19 comment=china-all
 add list=CN address=49.221.128.0/19 comment=china-all
