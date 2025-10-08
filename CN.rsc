@@ -6123,8 +6123,7 @@ add list=cmcc address=103.37.72.0/24 comment=china-cmcc
 add list=cmcc address=103.40.12.0/22 comment=china-cmcc
 add list=cmcc address=103.45.162.0/23 comment=china-cmcc
 add list=cmcc address=103.52.176.0/23 comment=china-cmcc
-add list=cmcc address=103.53.124.0/23 comment=china-cmcc
-add list=cmcc address=103.53.126.0/24 comment=china-cmcc
+add list=cmcc address=103.53.124.0/22 comment=china-cmcc
 add list=cmcc address=103.56.76.0/22 comment=china-cmcc
 add list=cmcc address=103.56.184.0/22 comment=china-cmcc
 add list=cmcc address=103.59.116.0/22 comment=china-cmcc
