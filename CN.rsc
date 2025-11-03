@@ -1333,8 +1333,7 @@ add list=CN address=103.202.112.0/22 comment=china-all
 add list=CN address=103.202.120.0/21 comment=china-all
 add list=CN address=103.202.128.0/20 comment=china-all
 add list=CN address=103.202.144.0/22 comment=china-all
-add list=CN address=103.203.56.0/23 comment=china-all
-add list=CN address=103.203.59.0/24 comment=china-all
+add list=CN address=103.203.56.0/22 comment=china-all
 add list=CN address=103.203.96.0/22 comment=china-all
 add list=CN address=103.203.140.0/22 comment=china-all
 add list=CN address=103.203.216.0/22 comment=china-all
