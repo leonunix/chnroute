@@ -1777,6 +1777,7 @@ add list=CN address=113.47.204.0/22 comment=china-all
 add list=CN address=113.47.216.0/21 comment=china-all
 add list=CN address=113.47.232.0/21 comment=china-all
 add list=CN address=113.47.248.0/21 comment=china-all
+add list=CN address=113.48.48.0/20 comment=china-all
 add list=CN address=113.48.127.0/24 comment=china-all
 add list=CN address=113.48.224.0/20 comment=china-all
 add list=CN address=113.50.0.0/20 comment=china-all
@@ -1975,6 +1976,7 @@ add list=CN address=116.153.0.0/16 comment=china-all
 add list=CN address=116.154.0.0/15 comment=china-all
 add list=CN address=116.162.0.0/16 comment=china-all
 add list=CN address=116.163.0.0/18 comment=china-all
+add list=CN address=116.165.0.0/16 comment=china-all
 add list=CN address=116.167.0.0/16 comment=china-all
 add list=CN address=116.168.0.0/15 comment=china-all
 add list=CN address=116.171.0.0/16 comment=china-all
@@ -4404,6 +4406,7 @@ add list=chinanet address=45.251.8.0/22 comment=china-net
 add list=chinanet address=45.251.20.0/22 comment=china-net
 add list=chinanet address=45.251.88.0/21 comment=china-net
 add list=chinanet address=45.251.100.0/22 comment=china-net
+add list=chinanet address=45.252.0.0/22 comment=china-net
 add list=chinanet address=45.252.106.0/23 comment=china-net
 add list=chinanet address=45.253.26.0/23 comment=china-net
 add list=chinanet address=45.254.8.0/23 comment=china-net
@@ -4795,6 +4798,7 @@ add list=chinanet address=103.220.64.0/22 comment=china-net
 add list=chinanet address=103.220.124.0/22 comment=china-net
 add list=chinanet address=103.220.128.0/19 comment=china-net
 add list=chinanet address=103.220.160.0/22 comment=china-net
+add list=chinanet address=103.220.240.0/22 comment=china-net
 add list=chinanet address=103.221.143.0/24 comment=china-net
 add list=chinanet address=103.222.33.0/24 comment=china-net
 add list=chinanet address=103.222.40.0/22 comment=china-net
@@ -7013,6 +7017,7 @@ add list=unicom address=116.153.0.0/16 comment=china-unicom
 add list=unicom address=116.154.0.0/15 comment=china-unicom
 add list=unicom address=116.162.0.0/16 comment=china-unicom
 add list=unicom address=116.163.0.0/18 comment=china-unicom
+add list=unicom address=116.165.0.0/16 comment=china-unicom
 add list=unicom address=116.167.0.0/16 comment=china-unicom
 add list=unicom address=116.168.0.0/15 comment=china-unicom
 add list=unicom address=116.171.0.0/16 comment=china-unicom
