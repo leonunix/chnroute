@@ -1241,7 +1241,6 @@ add list=CN address=103.150.164.0/23 comment=china-all
 add list=CN address=103.150.181.0/24 comment=china-all
 add list=CN address=103.150.212.0/24 comment=china-all
 add list=CN address=103.151.148.0/23 comment=china-all
-add list=CN address=103.151.179.0/24 comment=china-all
 add list=CN address=103.151.216.0/23 comment=china-all
 add list=CN address=103.151.228.0/23 comment=china-all
 add list=CN address=103.152.28.0/23 comment=china-all
@@ -3146,7 +3145,6 @@ add list=CN address=193.119.22.0/24 comment=china-all
 add list=CN address=193.119.25.0/24 comment=china-all
 add list=CN address=193.119.28.0/24 comment=china-all
 add list=CN address=193.119.30.0/24 comment=china-all
-add list=CN address=193.233.49.0/24 comment=china-all
 add list=CN address=194.15.39.0/24 comment=china-all
 add list=CN address=194.127.229.0/24 comment=china-all
 add list=CN address=194.138.202.0/23 comment=china-all
@@ -6114,7 +6112,7 @@ add list=cmcc address=103.78.228.0/22 comment=china-cmcc
 add list=cmcc address=103.82.224.0/22 comment=china-cmcc
 add list=cmcc address=103.83.72.0/22 comment=china-cmcc
 add list=cmcc address=103.84.170.0/23 comment=china-cmcc
-add list=cmcc address=103.85.84.0/24 comment=china-cmcc
+add list=cmcc address=103.85.84.0/23 comment=china-cmcc
 add list=cmcc address=103.85.87.0/24 comment=china-cmcc
 add list=cmcc address=103.85.172.0/22 comment=china-cmcc
 add list=cmcc address=103.85.178.0/24 comment=china-cmcc
