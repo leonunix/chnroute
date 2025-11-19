@@ -961,6 +961,7 @@ add list=CN address=103.42.8.0/22 comment=china-all
 add list=CN address=103.42.76.0/22 comment=china-all
 add list=CN address=103.42.104.0/22 comment=china-all
 add list=CN address=103.43.134.0/23 comment=china-all
+add list=CN address=103.43.175.0/24 comment=china-all
 add list=CN address=103.43.184.0/22 comment=china-all
 add list=CN address=103.43.240.0/23 comment=china-all
 add list=CN address=103.44.56.0/22 comment=china-all
