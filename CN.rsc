@@ -6050,8 +6050,7 @@ add list=cmcc address=45.117.10.0/23 comment=china-cmcc
 add list=cmcc address=45.119.64.0/22 comment=china-cmcc
 add list=cmcc address=45.120.102.0/23 comment=china-cmcc
 add list=cmcc address=45.125.24.0/24 comment=china-cmcc
-add list=cmcc address=45.248.8.0/23 comment=china-cmcc
-add list=cmcc address=45.248.11.0/24 comment=china-cmcc
+add list=cmcc address=45.248.8.0/22 comment=china-cmcc
 add list=cmcc address=45.248.204.0/22 comment=china-cmcc
 add list=cmcc address=45.250.28.0/22 comment=china-cmcc
 add list=cmcc address=45.250.40.0/22 comment=china-cmcc
