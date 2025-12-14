@@ -800,6 +800,7 @@ add list=CN address=81.68.0.0/14 comment=china-all
 add list=CN address=81.173.18.0/23 comment=china-all
 add list=CN address=81.173.20.0/22 comment=china-all
 add list=CN address=81.173.28.0/24 comment=china-all
+add list=CN address=82.39.206.0/23 comment=china-all
 add list=CN address=82.39.249.0/24 comment=china-all
 add list=CN address=82.152.105.0/24 comment=china-all
 add list=CN address=82.156.0.0/15 comment=china-all
@@ -8544,10 +8545,9 @@ add list=cmcc address=210.14.128.0/19 comment=china-cmcc
 add list=cmcc address=210.73.204.0/24 comment=china-cmcc
 add list=cmcc address=210.74.0.0/22 comment=china-cmcc
 add list=cmcc address=210.75.239.0/24 comment=china-cmcc
-add list=cmcc address=210.77.180.0/23 comment=china-cmcc
+add list=cmcc address=210.77.181.0/24 comment=china-cmcc
 add list=cmcc address=210.77.184.0/24 comment=china-cmcc
 add list=cmcc address=210.77.189.0/24 comment=china-cmcc
-add list=cmcc address=210.77.190.0/24 comment=china-cmcc
 add list=cmcc address=211.98.0.0/16 comment=china-cmcc
 add list=cmcc address=211.99.13.0/24 comment=china-cmcc
 add list=cmcc address=211.99.96.0/22 comment=china-cmcc
