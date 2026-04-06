@@ -5887,7 +5887,7 @@ add list=chinanet address=118.203.64.0/20 comment=china-net
 add list=chinanet address=118.203.96.0/22 comment=china-net
 add list=chinanet address=118.203.112.0/20 comment=china-net
 add list=chinanet address=118.203.128.0/18 comment=china-net
-add list=chinanet address=118.203.192.0/21 comment=china-net
+add list=chinanet address=118.203.192.0/19 comment=china-net
 add list=chinanet address=118.213.0.0/16 comment=china-net
 add list=chinanet address=118.215.192.0/19 comment=china-net
 add list=chinanet address=118.228.40.0/21 comment=china-net
@@ -8060,6 +8060,7 @@ add list=chinanet address=222.27.0.0/19 comment=china-net
 add list=chinanet address=222.27.48.0/20 comment=china-net
 add list=chinanet address=222.27.96.0/20 comment=china-net
 add list=chinanet address=222.27.129.0/24 comment=china-net
+add list=chinanet address=222.27.130.0/24 comment=china-net
 add list=chinanet address=222.27.144.0/20 comment=china-net
 add list=chinanet address=222.27.160.0/19 comment=china-net
 add list=chinanet address=222.27.192.0/20 comment=china-net
@@ -11994,7 +11995,14 @@ add list=unicom address=211.144.40.0/21 comment=china-unicom
 add list=unicom address=211.144.48.0/20 comment=china-unicom
 add list=unicom address=211.144.96.0/23 comment=china-unicom
 add list=unicom address=211.144.100.0/24 comment=china-unicom
-add list=unicom address=211.144.128.0/19 comment=china-unicom
+add list=unicom address=211.144.128.0/21 comment=china-unicom
+add list=unicom address=211.144.136.0/22 comment=china-unicom
+add list=unicom address=211.144.140.0/23 comment=china-unicom
+add list=unicom address=211.144.142.0/24 comment=china-unicom
+add list=unicom address=211.144.144.0/21 comment=china-unicom
+add list=unicom address=211.144.152.0/22 comment=china-unicom
+add list=unicom address=211.144.156.0/23 comment=china-unicom
+add list=unicom address=211.144.158.0/24 comment=china-unicom
 add list=unicom address=211.144.192.0/20 comment=china-unicom
 add list=unicom address=211.144.224.0/19 comment=china-unicom
 add list=unicom address=211.145.0.0/18 comment=china-unicom
