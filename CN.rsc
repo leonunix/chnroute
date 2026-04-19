@@ -7531,6 +7531,7 @@ add list=chinanet address=210.76.88.0/21 comment=china-net
 add list=chinanet address=210.76.160.0/19 comment=china-net
 add list=chinanet address=210.77.128.0/20 comment=china-net
 add list=chinanet address=210.77.183.0/24 comment=china-net
+add list=chinanet address=210.77.185.0/24 comment=china-net
 add list=chinanet address=210.77.186.0/23 comment=china-net
 add list=chinanet address=210.77.188.0/24 comment=china-net
 add list=chinanet address=210.78.128.0/24 comment=china-net
@@ -9162,7 +9163,7 @@ add list=cmcc address=210.74.0.0/22 comment=china-cmcc
 add list=cmcc address=210.75.239.0/24 comment=china-cmcc
 add list=cmcc address=210.77.179.0/24 comment=china-cmcc
 add list=cmcc address=210.77.181.0/24 comment=china-cmcc
-add list=cmcc address=210.77.184.0/23 comment=china-cmcc
+add list=cmcc address=210.77.184.0/24 comment=china-cmcc
 add list=cmcc address=210.77.189.0/24 comment=china-cmcc
 add list=cmcc address=210.77.191.0/24 comment=china-cmcc
 add list=cmcc address=211.98.0.0/16 comment=china-cmcc
@@ -10443,8 +10444,7 @@ add list=unicom address=114.213.176.0/23 comment=china-unicom
 add list=unicom address=114.213.178.0/24 comment=china-unicom
 add list=unicom address=114.213.192.0/18 comment=china-unicom
 add list=unicom address=114.214.0.0/19 comment=china-unicom
-add list=unicom address=114.214.64.0/20 comment=china-unicom
-add list=unicom address=114.214.80.0/21 comment=china-unicom
+add list=unicom address=114.214.64.0/19 comment=china-unicom
 add list=unicom address=114.214.96.0/20 comment=china-unicom
 add list=unicom address=114.214.124.0/22 comment=china-unicom
 add list=unicom address=114.214.128.0/17 comment=china-unicom
@@ -11644,6 +11644,7 @@ add list=unicom address=210.44.32.0/20 comment=china-unicom
 add list=unicom address=210.44.64.0/19 comment=china-unicom
 add list=unicom address=210.44.112.0/20 comment=china-unicom
 add list=unicom address=210.44.128.0/18 comment=china-unicom
+add list=unicom address=210.44.192.0/20 comment=china-unicom
 add list=unicom address=210.44.232.0/21 comment=china-unicom
 add list=unicom address=210.44.244.0/22 comment=china-unicom
 add list=unicom address=210.44.248.0/21 comment=china-unicom
