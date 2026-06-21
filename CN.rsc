@@ -3115,6 +3115,7 @@ add list=CN address=189.73.18.0/24 comment=china-all
 add list=CN address=189.75.185.0/24 comment=china-all
 add list=CN address=189.75.186.0/24 comment=china-all
 add list=CN address=191.44.18.0/24 comment=china-all
+add list=CN address=191.217.175.0/24 comment=china-all
 add list=CN address=191.219.18.0/24 comment=china-all
 add list=CN address=191.222.43.0/24 comment=china-all
 add list=CN address=191.222.242.0/24 comment=china-all
@@ -6600,7 +6601,7 @@ add list=chinanet address=140.246.0.0/16 comment=china-net
 add list=chinanet address=140.249.0.0/16 comment=china-net
 add list=chinanet address=140.250.0.0/16 comment=china-net
 add list=chinanet address=140.255.0.0/16 comment=china-net
-add list=chinanet address=141.11.50.0/23 comment=china-net
+add list=chinanet address=141.11.51.0/24 comment=china-net
 add list=chinanet address=144.0.0.0/16 comment=china-net
 add list=chinanet address=144.7.0.0/17 comment=china-net
 add list=chinanet address=144.12.0.0/16 comment=china-net
@@ -10836,6 +10837,7 @@ add list=unicom address=118.194.48.0/21 comment=china-unicom
 add list=unicom address=118.194.240.0/21 comment=china-unicom
 add list=unicom address=118.212.0.0/16 comment=china-unicom
 add list=unicom address=118.229.0.0/20 comment=china-unicom
+add list=unicom address=118.229.40.0/22 comment=china-unicom
 add list=unicom address=118.239.36.0/24 comment=china-unicom
 add list=unicom address=118.244.128.0/18 comment=china-unicom
 add list=unicom address=118.244.240.0/20 comment=china-unicom
@@ -11341,6 +11343,8 @@ add list=unicom address=154.89.32.0/21 comment=china-unicom
 add list=unicom address=154.89.40.0/22 comment=china-unicom
 add list=unicom address=154.89.45.0/24 comment=china-unicom
 add list=unicom address=154.89.46.0/24 comment=china-unicom
+add list=unicom address=154.203.204.0/23 comment=china-unicom
+add list=unicom address=154.203.244.0/23 comment=china-unicom
 add list=unicom address=155.126.176.0/23 comment=china-unicom
 add list=unicom address=157.0.0.0/16 comment=china-unicom
 add list=unicom address=157.10.35.0/24 comment=china-unicom
