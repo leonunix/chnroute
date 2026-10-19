@@ -8353,7 +8353,6 @@ add list=chinanet address=182.144.0.0/13 comment=china-net
 add list=chinanet address=182.175.242.0/23 comment=china-net
 add list=chinanet address=182.200.0.0/13 comment=china-net
 add list=chinanet address=182.240.0.0/13 comment=china-net
-add list=chinanet address=182.254.118.0/24 comment=china-net
 add list=chinanet address=183.0.0.0/10 comment=china-net
 add list=chinanet address=183.64.0.0/13 comment=china-net
 add list=chinanet address=183.78.180.0/22 comment=china-net
